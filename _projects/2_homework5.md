@@ -1,6 +1,7 @@
 ---
 name: UFO Visualization Project
 tools: [Python, HTML, vega-lite]
+image: assets/pngs/hw5.png
 description: Interactive visualizations of UFO sightings using Altair and Vega-Lite
 custom_js:
   - vega.min
