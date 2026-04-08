@@ -26,7 +26,6 @@ This chart shows the number of UFO sightings over time, while also allowing the 
 
 The interactive dropdown menu allows users to filter the visualization by selecting a specific shape they want to analyze and updating the chart to display only rows with the selected shape. It allows users to explore trends of different shapes efficiently.
 
-## Links
 <div class="left">
 {% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %}
 </div>
